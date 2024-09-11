@@ -26,4 +26,11 @@ Temporary Items
 .apdisk
 
 # Clang
-*.9
+*.o
+
+# Org-mode
+.org-id-locations
+*_archive
+
+# IntelliJ
+.idea
